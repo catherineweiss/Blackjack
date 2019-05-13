@@ -52,6 +52,10 @@ And name this package slidePuzzle. Within this package, create the 9 classes lis
 
 The ```main``` method is contained within Blackjack.java. 
 
+![](StandAt18.gif)
+
+![](StandAt20.gif)
+
 ## Versions
 
 We used the following software versions:
